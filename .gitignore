@@ -1,0 +1,50 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vscode/
+
+# Build output
+x64/
+Debug/
+Release/
+Feedback/
+Sketchbook/
+Submit/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.log
+*.tlog
+*.recipe
+*.ipch
+*.iobj
+*.ipdb
+*.dt.d.json
+*.dt.module.json
+*.dt.module.json.command
+CodeAnalysisResultManifest.txt
+
+# Course-provided files and submission output (not mine to republish)
+202425Project/template/
+202425Project/Submit/
+202425Project/tests.txt
+
+# Local notes / tooling
+PORTFOLIO_INFO.md
+.claude/
+CLAUDE.md

@@ -1,0 +1,248 @@
+sukhumi
+kabul
+episkopi cantonment
+tirana
+algiers
+pago pago
+andorra la vella
+luanda
+the valley
+st. john's
+buenos aires
+yerevan
+oranjestad
+georgetown
+canberra
+vienna
+baku
+nassau
+manama
+dhaka
+bridgetown
+minsk
+brussels
+belmopan
+porto-novo
+hamilton
+thimphu
+sucre
+la paz
+sarajevo
+gaborone
+brasilia
+road town
+bandar seri begawan
+sofia
+ouagadougou
+bujumbura
+phnom penh
+yaounde
+ottawa
+praia
+george town
+bangui
+n'djamena
+santiago
+beijing
+flying fish cove
+west island
+bogota
+moroni
+avarua
+san jose
+zagreb
+havana
+willemstad
+nicosia
+prague
+yamoussoukro
+kinshasa
+copenhagen
+djibouti
+roseau
+santo domingo
+dili
+hanga roa
+quito
+cairo
+san salvador
+malabo
+asmara
+tallinn
+addis ababa
+stanley
+torshavn
+palikir
+suva
+helsinki
+paris
+cayenne
+papeete
+libreville
+banjul
+tbilisi
+berlin
+accra
+gibraltar
+athens
+nuuk
+st. george's
+hagatna
+guatemala city
+st. peter port
+conakry
+bissau
+georgetown
+port-au-prince
+tegucigalpa
+budapest
+reykjavik
+new delhi
+jakarta
+tehran
+baghdad
+dublin
+douglas
+jerusalem
+rome
+kingston
+tokyo
+st. helier
+amman
+astana
+nairobi
+tarawa
+pristina
+kuwait city
+bishkek
+vientiane
+riga
+beirut
+maseru
+monrovia
+tripoli
+vaduz
+vilnius
+luxembourg
+skopje
+antananarivo
+lilongwe
+kuala lumpur
+male
+bamako
+valletta
+majuro
+nouakchott
+port louis
+mexico city
+chisinau
+monaco
+ulaanbaatar
+podgorica
+plymouth
+rabat
+maputo
+naypyidaw
+stepanakert
+windhoek
+yaren
+kathmandu
+amsterdam
+noumea
+wellington
+managua
+niamey
+abuja
+alofi
+kingston
+pyongyang
+nicosia
+belfast
+saipan
+oslo
+muscat
+islamabad
+ngerulmud
+jerusalem
+panama city
+port moresby
+asuncion
+lima
+manila
+adamstown
+warsaw
+lisbon
+san juan
+doha
+taipei
+brazzaville
+bucharest
+moscow
+kigali
+gustavia
+jamestown
+basseterre
+castries
+marigot
+st. pierre
+kingstown
+apia
+san marino
+riyadh
+edinburgh
+dakar
+belgrade
+victoria
+freetown
+singapore
+philipsburg
+bratislava
+ljubljana
+honiara
+mogadishu
+hargeisa
+pretoria
+grytviken
+seoul
+tskhinvali
+juba
+madrid
+sri jayawardenapura kotte
+khartoum
+paramaribo
+mbabane
+stockholm
+bern
+damascus
+sao tome
+dushanbe
+dodoma
+bangkok
+lome
+nuku'alofa
+tiraspol
+port of spain
+edinburgh of the seven seas
+tunis
+ankara
+ashgabat
+cockburn town
+funafuti
+kampala
+kyiv
+abu dhabi
+london
+washington
+charlotte amalie
+montevideo
+tashkent
+port vila
+vatican city
+caracas
+hanoi
+cardiff
+mata-utu
+el aaiun
+sanaa
+lusaka
+harare
